@@ -4,9 +4,9 @@ _El juego del vida conway y una simulación de la expansión de un virus usando 
 
 ## Tabla de contenidos
 
-- [Comenzando](#comenzando)
-- [Pre-requisitos](#Pre-requisitos)
-- [Instalación](#instalación)
+- [Comenzando](##comenzando-)
+- [Pre-requisitos](#pre-requisitos-)
+- [Instalación](#instalación-)
 
 
 
