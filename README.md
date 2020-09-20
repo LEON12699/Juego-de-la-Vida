@@ -1,5 +1,7 @@
 # Celula Autómata
 
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leon12699.juego_de_la_vida)
+  
 _El juego del vida conway y una simulación de la expansión de un virus usando celulas autómata y python_
 
 ## Tabla de contenidos
